@@ -1,0 +1,5 @@
+ajo: 5
+tomate: 5
+agua: 300mg
+cilantro: 1lb
+pepino: 4
