@@ -1,4 +1,4 @@
-ajo: 2
+ajo: 1
 tomate: 3
 agua: 300mg
 cilantro: 12lb
