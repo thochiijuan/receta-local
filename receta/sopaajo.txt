@@ -2,4 +2,4 @@ ajo: 1
 tomate: 3
 agua: 300mg
 cilantro: 12lb
-pepino: 4
+pepino: 6
